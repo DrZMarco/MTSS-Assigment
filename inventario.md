@@ -3,3 +3,4 @@ MATRICOLE:
 - 2011070
 schede_madri: Asus
 Processori: Samsung/Intel/Snapdragon
+Elettronica Padovana
